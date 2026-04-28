@@ -82,7 +82,7 @@ class DataScientist:
     <td width="50%">
       <h3 align="center">🫀 Heart Disease Prediction</h3>
       <p align="center">
-        <a href="https://github.com/YOUR-USERNAME/heart-disease-prediction">
+        <a href="https://github.com/AltairAbenov/machine-learning-project">
           <img src="https://img.shields.io/badge/REPO-0CCA98?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
