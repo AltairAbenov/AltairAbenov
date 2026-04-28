@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>I build ML systems that help financial institutions make faster, safer, and smarter decisions.</em>
-  <em>I'm Junior dev with a senior-level curiosity and a terminal that's always open.</em>
+  <em>I'm also a Junior dev with a senior-level curiosity and a terminal that's always open.</em>
 </p>
 
 <p align="center">
