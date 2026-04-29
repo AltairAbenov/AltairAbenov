@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>I build ML systems that help financial institutions make faster, safer, and smarter decisions.</em>
-  <em>I'm also a Junior dev with a senior-level curiosity and a terminal that's always open.</em>
+  <em>I'm also a backend developer with a senior-level curiosity and a terminal that's always open.</em>
 </p>
 
 <p align="center">
@@ -20,19 +20,19 @@
 class DataScientist:
     def __init__(self):
         self.name = "Altair"
-        self.role = "Data Scientist"
+        self.role = "Data Scientist / Backend Developer"
         self.domain = "Fintech"
         self.location = "Almaty, KZ"
         self.education = "BSc in Information Systems"
         self.interests = [
-            "Credit Risk Modeling",
+            "Backend Development",
             "Fraud Detection",
             "Algorithmic Trading",
             "Alternative Data & NLP for Finance"
         ]
 
     def current_focus(self):
-        return "Building explainable ML pipelines for credit scoring"
+        return "Building explainable ML pipelines for credit scoring and developing responsive apps"
 ```
 
 ---
@@ -45,6 +45,14 @@ class DataScientist:
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/API-REST-violet" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     </td>
   </tr>
   <tr>
@@ -63,10 +71,11 @@ class DataScientist:
     <td align="center"><b>Viz & BI</b></td>
     <td>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>MLOps</b></td>
+    <td align="center"><b>Ops</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
@@ -89,6 +98,17 @@ class DataScientist:
       <p>Compared Logistic Regression, KNN, Decision Tree & SVM on the UCI Cleveland dataset. SVM achieved <b>91% recall</b> — critical for minimizing false negatives in clinical diagnostics.</p>
       <p><code>scikit-learn</code> <code>SVM</code> <code>EDA</code> <code>Cross-Validation</code></p>
     </td>
+
+    <td width="50%">
+      <h3 align="center">💵 Finance Tracker</h3>
+      <p align="center">
+        <a href="https://github.com/AltairAbenov/web-project">
+          <img src="https://img.shields.io/badge/REPO-0CCA98?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>A web application for managing personal finances. Users can track income and expenses, plan budgets, set financial goals, and analyze their spending habits with interactive charts and reports.</p>
+      <p><code>Django</code> <code>Angular</code> <code>SQLite</code></p>
+    </td>
   </tr>
 </table>
 
@@ -97,8 +117,8 @@ class DataScientist:
 ### 📬 Let's Connect
 
 <p align="center">
-  I'm open to <b>Data Science / ML Engineer</b> roles in fintech, banking, and insurtech.<br>
-  If you're building something at the intersection of data and finance — let's talk.
+  I'm open to <b>Data Science / ML Engineer / Backend Developer</b> roles in fintech, banking, and insurtech.<br>
+  If you're building something at the intersection of data, development and finance — let's talk.
 </p>
 
 <p align="center">
