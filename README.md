@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CCA98&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Fintech;Machine+Learning+%C2%B7+Risk+%C2%B7+Quant;Turning+data+into+alpha" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CCA98&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Backend Developer;Machine+Learning+%C2%B7+Risk+%C2%B7+Quant;Turning+data+into+alpha" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 ### 🧭 About Me
 
 ```python
-class DataScientist:
+class DataScientist_BackendDeveloper:
     def __init__(self):
         self.name = "Altair"
         self.role = "Data Scientist / Backend Developer"
