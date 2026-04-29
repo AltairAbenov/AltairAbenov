@@ -98,7 +98,6 @@ class DataScientist_BackendDeveloper:
       <p>Compared Logistic Regression, KNN, Decision Tree & SVM on the UCI Cleveland dataset. SVM achieved <b>91% recall</b> — critical for minimizing false negatives in clinical diagnostics.</p>
       <p><code>scikit-learn</code> <code>SVM</code> <code>EDA</code> <code>Cross-Validation</code></p>
     </td>
-
     <td width="50%">
       <h3 align="center">💵 Finance Tracker</h3>
       <p align="center">
