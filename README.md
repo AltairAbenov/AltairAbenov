@@ -1,10 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CCA98&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+Backend+Developer;Machine+Learning+%C2%B7+Risk+%C2%B7+Quant;Turning+data+into+alpha" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CCA98&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C;Machine+Learning+%C2%B7+Risk+%C2%B7+Quant;Turning+data+into+alpha" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <em>I build ML systems that help financial institutions make faster, safer, and smarter decisions.</em>
-  <em>I'm also a backend developer with a senior-level curiosity and a terminal that's always open.</em>
 </p>
 
 <p align="center">
@@ -17,22 +16,21 @@
 ### 🧭 About Me
 
 ```python
-class DataScientist_BackendDeveloper:
+class DataScientist:
     def __init__(self):
         self.name = "Altair"
-        self.role = "Data Scientist / Backend Developer"
+        self.role = "Data Scientist"
         self.domain = "Fintech"
         self.location = "Almaty, KZ"
         self.education = "BSc in Information Systems"
         self.interests = [
-            "Backend Development",
             "Fraud Detection",
             "Algorithmic Trading",
             "Alternative Data & NLP for Finance"
         ]
 
     def current_focus(self):
-        return "Building explainable ML pipelines for credit scoring and developing responsive apps"
+        return "Building explainable ML pipelines for credit scoring and analysing financial data"
 ```
 
 ---
@@ -46,13 +44,6 @@ class DataScientist_BackendDeveloper:
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/API-REST-violet" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
     </td>
   </tr>
   <tr>
@@ -70,7 +61,7 @@ class DataScientist_BackendDeveloper:
   <tr>
     <td align="center"><b>Viz & BI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black" />
       <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python" />
     </td>
   </tr>
@@ -116,7 +107,7 @@ class DataScientist_BackendDeveloper:
 ### 📬 Let's Connect
 
 <p align="center">
-  I'm open to <b>Data Science / ML Engineer / Backend Developer</b> roles in fintech, banking, and insurtech.<br>
+  I'm open to <b>Data Science / ML Engineer</b> roles in fintech, banking, and insurtech.<br>
   If you're building something at the intersection of data, development and finance — let's talk.
 </p>
 
